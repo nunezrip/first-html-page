@@ -1,0 +1,37 @@
+h1  {
+    color: aqua;
+    text-align: center;
+}
+
+.title {
+    text-transform: uppercase;
+}
+
+div {
+    text-align: center
+}
+
+img {
+    max-width: 300px;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+}
+
+li {
+
+font-size: 30px;
+}
+
+.taco {
+    color: red;
+}
+
+
