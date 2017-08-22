@@ -34,4 +34,23 @@ font-size: 30px;
     color: red;
 }
 
+.left,
+.right {
+    width: 100%;
+    display: inline-block;
+    text-align: left;
+}
 
+@media (min-width: 768px) {
+    .left,
+    .right {
+        width: 48%;
+    }
+}
+
+input,
+textarea {
+    display: block;
+    margin-bottom: 20px;
+    padding: 8px;
+}
